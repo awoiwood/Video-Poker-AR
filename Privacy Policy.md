@@ -101,4 +101,4 @@ Any changes will be posted on this page with an updated revision date.
 
 If you have questions about this Privacy Policy, you may contact:
 
-**Email:** [YOUR EMAIL]
+**Email:** wumbojet100@gmail.com
