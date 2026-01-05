@@ -58,7 +58,7 @@ Perfect for fast-paced casino environments.
 - All Camera Processing is done locally
 
 A full privacy policy is available here:  
-👉 **[Privacy Policy](Privacy Policy.md)**
+👉 **[Privacy Policy](/Privacy-Policy.md)**
 
 ---
 
